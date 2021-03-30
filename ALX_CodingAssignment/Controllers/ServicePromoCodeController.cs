@@ -11,9 +11,11 @@ using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
 using ALX_CodingAssignment.Helpers;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ALX_CodingAssignment.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class ServicePromoCodesController : BaseController
