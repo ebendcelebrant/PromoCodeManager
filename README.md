@@ -25,7 +25,7 @@ Visual Studio was used in this project and the solution file is in VS format. <b
 <li>The VS project should be open on your computer.</li>
 <li>The Test project is named ALX_CodingAssignment_Test while the API is in ALX_CodingAssignment</li>
 <li>The API has been documented and UI enabled with Swashbuckle, so you can run and test each endpoint by clicking the "play" button on VS<br />
-  <b>Note:<b> Due to the authentication enabled, Postman or any other API testing tool maybe preferable as you will need to retrieve the user token when you log in
+  <b>Note:</b> Due to the authentication enabled, Postman or any other API testing tool maybe preferable as you will need to retrieve the user token when you log in
     and use it as the bearer token in your authorization header to access the authorized endpoints</li>
 <li>Test and Enjoy!!</li>
 </ol>
