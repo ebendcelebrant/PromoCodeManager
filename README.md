@@ -29,3 +29,6 @@ Visual Studio was used in this project and the solution file is in VS format. <b
     and use it as the bearer token in your authorization header to access the authorized endpoints</li>
 <li>Test and Enjoy!!</li>
 </ol>
+
+
+You can find the answer to the developer questions [here](https://github.com/ebendcelebrant/PromoCodeManager/blob/master/CodingQuestions.md)
